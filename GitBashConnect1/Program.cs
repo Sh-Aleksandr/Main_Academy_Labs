@@ -8,6 +8,7 @@ namespace GitBashConnect1
         {
             Console.WriteLine("Hi");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Good");
         }
     }
 }
